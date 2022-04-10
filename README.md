@@ -15,11 +15,11 @@ I am currently studying at MSTU "STANKIN". In parallel with my studies at the un
 
 ## Social networking
 
-<a href="https://github.com/splincode" target="_blank">
+<a href="https://github.com/ksilisk" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
 </a>
 
-<a href="https://www.linkedin.com/in/splincode" target="_blank">
+<a href="https://www.linkedin.com/in/ksilisk" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn">
 </a>
 
