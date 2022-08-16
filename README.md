@@ -5,7 +5,7 @@
 I am <b>Shaliko Salimov</b>.
 I am an inquisitive, purposeful and sociable developer. 📚 <br>
 
-I am currently studying at MSTU "STANKIN". In parallel with my studies at the university, I work as a freelancer: develop chat bots and website parsers.
+I am currently studying at MSTU "STANKIN" and "School 21" of Sber. In parallel with my studies, I work as a freelancer: develop chat bots and website parsers.
 
 ## Languages and Tools
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/csharp/csharp.png"></code>
