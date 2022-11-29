@@ -8,7 +8,7 @@ I am an inquisitive, purposeful and sociable back-end developer. 📚 <br>
 I am currently studying at MSTU "STANKIN" and "School 21" of Sber. In parallel with my studies, I work as a freelancer: develop chat bots, back-end applications and website parsers.
 
 ## Languages and Tools
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/csharp/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/linux/linux.png"></code>
