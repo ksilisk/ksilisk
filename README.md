@@ -17,17 +17,13 @@ I am currently studying at MSTU "STANKIN" and "School 21" of Sber. In parallel w
 
 ## Social networking
 
-[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=@ksilisk)](https://t.me)
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=@ksilisk&color=blue&labelColor=black)](https://t.me/ksilisk)
 [![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=ksilisk.ksilisk&label=visitors&logo=Codeforces&style=for-the-badge&labelColor=black&color=forestgreen)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![GitHub Follow](https://img.shields.io/github/followers/ksilisk?label=follow&logo=github&style=for-the-badge&labelColor=black)](https://github.com/ksilisk)
 [![LeetCode Stats](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=darkorange&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fksilisk&logo=leetcode&logoColor=yellow)](https://leetcode.com/ksilisk/)
 
 <a href="https://www.linkedin.com/in/ksilisk" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn">
-</a>
-
-<a href="https://t.me/ksilisk" target="_blank">
-  <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram">
 </a>
 
 ## Local stats (without github groups)
