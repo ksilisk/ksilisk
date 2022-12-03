@@ -17,7 +17,7 @@ I am currently studying at MSTU "STANKIN" and "School 21" of Sber. In parallel w
 
 ## Social networking
 
-[![Telegram](https://img.shields.io/static/v1?logo=#26A5E4&style=for-the-badge&labelColor=black&color=darkorange&label=Telegram)](https://ksilisk.t.me)
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=@ksilisk)](https://t.me)
 [![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=ksilisk.ksilisk&label=visitors&logo=Codeforces&style=for-the-badge&labelColor=black&color=forestgreen)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![GitHub Follow](https://img.shields.io/github/followers/ksilisk?label=follow&logo=github&style=for-the-badge&labelColor=black)](https://github.com/ksilisk)
 [![LeetCode Stats](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=darkorange&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fksilisk&logo=leetcode&logoColor=yellow)](https://leetcode.com/ksilisk/)
