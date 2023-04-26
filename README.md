@@ -3,7 +3,7 @@
 <img align='right' src="https://habrastorage.org/webt/tn/jp/ep/tnjpepft7cptughbj_1bmrublio.gif" width="430">
 
 I am <b>Shaliko Salimov</b>.
-I am an inquisitive, purposeful and sociable back-end developer. 📚 <br>
+I am an inquisitive, purposeful and sociable developer. 📚 <br>
 
 I am currently work as a Middle Java developer at Sber. In parallel with work, I study at MSTU "STANKIN" and "School 21" of Sberbank.
 
