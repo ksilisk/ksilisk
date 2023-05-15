@@ -5,7 +5,7 @@
 I am <b>Shaliko Salimov</b>.
 I am an inquisitive, purposeful and sociable developer. 📚 <br>
 
-I am currently work as a Middle Java developer at Sber. In parallel with work, I study at MSTU "STANKIN" and "School 21" of Sberbank.
+I am currently work as a Java Software Engineer at Sber. In parallel with work, I study at MSTU "STANKIN" and "School 21" of Sberbank.
 
 ## Languages and Tools
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/java/java.png"></code>
