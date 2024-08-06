@@ -5,7 +5,7 @@
 I am <b>Shaliko Salimov</b>.
 I am an inquisitive, purposeful and sociable developer. 📚 <br>
 
-I am currently work as a Java Software Engineer at "Home Credit Bank".<br>
+I am currently work as a Java Software Engineer at "Yandex".<br>
 In parallel with work, I study at MSTU "STANKIN".
 
 ## Languages and Tools
