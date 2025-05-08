@@ -8,14 +8,6 @@ I am an inquisitive, purposeful and sociable developer. 📚 <br>
 I am currently work as a Java Software Engineer at "Yandex".<br>
 In parallel with work, I study at MSTU "STANKIN".
 
-## Languages and Tools
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/sql/sql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/linux/linux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
 ## Social networking
 
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=ksilisk&color=blue&labelColor=black)](https://t.me/ksilisk)
